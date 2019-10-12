@@ -9,7 +9,7 @@ For this project I chose to make an app that I would find useful in my own life.
 
 The first step I took in the process of building this app was to create an excel sheet that would help me map the MVC and CRUD actions. I started with a column for each of my models, camper & trips. I listed what each would have in their databases such as username, password for camper and park and campground for trips. I would need a controller for each model which is what I listed next. I thought about what routes each controller would need and listed them out along with routes or forms they would redirect to. From there I knew what forms and other view files I would need. 
 
-![](https://lh6.googleusercontent.com/J7S-6-GAb8S94CdoHNNfV-OCqZLCHCckRc-O6aPVu_2oBVSxGJTZJi7Se8Q=w2400)
+![](https://lh6.googleusercontent.com/9EV-3oZHu5JjRGw9Ozi2mwxK-e3kIGW35gb9RfKNngKOic3vb76eECoCDSA=w2400)
 
 This excel sheet was super helpful. I created my repo in github and used the corneal gem for prebuilt file structure. I started coding everything I listed out so I had the basic app structure coded fairly quickly. From there I created a seed file I'd be able to use for testing. There are a few ways to do this and wasn't sure about the best way to go abot it but I ended up using the create method like below.
 
