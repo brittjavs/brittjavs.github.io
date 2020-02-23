@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Rails JS Project"
-date:       2020-02-23 04:52:16 +0000
+date:       2020-02-22 23:52:17 -0500
 permalink:  rails_js_project
 ---
 
 
-This project requred a signle page application built with a rails api with javascript frontend. This project was very different from the past projects for various reasons; reasons that made this project extra challenging. I will be writing about my experience.
+This project requred a single page application built with a rails api with javascript frontend. This project was very different from the past projects for various reasons; reasons that made this project extra challenging. I will be writing about my experience.
 
 1. Before I started writing any code, I brainstormed and decided what i wanted my applicaton to be. I wanted to create something space related, and personally I love stargazing so I decided to create a tracker for constellations. 
 2.  I wrote user stories. This outlined what i wanted the user experience to be like. For example,
